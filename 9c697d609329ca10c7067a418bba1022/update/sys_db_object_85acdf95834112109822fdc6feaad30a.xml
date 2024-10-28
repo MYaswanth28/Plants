@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
-        <access/>
+        <access>public</access>
         <actions_access>false</actions_access>
         <alter_access>false</alter_access>
         <caller_access/>
@@ -17,19 +17,19 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Import Set Row" name="sys_import_set_row">d88bf3e2f832021008dd9cfea425ac2c</super_class>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">e4e4b0f17d31311076daf29f52070d62</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-10-04 06:58:02</sys_created_on>
+        <sys_created_on>2024-10-28 15:56:22</sys_created_on>
         <sys_id>85acdf95834112109822fdc6feaad30a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Plant Mgmt Importplantdata</sys_name>
+        <sys_name>importplantdata</sys_name>
         <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
         <sys_policy/>
         <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
         <sys_update_name>sys_db_object_85acdf95834112109822fdc6feaad30a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-04 06:58:02</sys_updated_on>
+        <sys_updated_on>2024-10-28 15:56:22</sys_updated_on>
         <update_access>false</update_access>
         <user_role/>
         <ws_access>true</ws_access>

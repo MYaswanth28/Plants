@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="DELETE">
+        <active>true</active>
+        <conditions table="x_snc_plant_mgmt_plant_wiki">is_seasonal=true^EQ<item endquery="false" field="is_seasonal" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+
+}]]></script_true>
+        <set_values/>
+        <short_description>Show Season if Seasonal is true</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 06:18:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>348649d183911210e2619780deaad324</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show Season if Seasonal is true</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
+        <sys_update_name>sys_ui_policy_348649d183911210e2619780deaad324</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 06:18:49</sys_updated_on>
+        <table>x_snc_plant_mgmt_plant_wiki</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Plant Management">9c697d609329ca10c7067a418bba1022</application>
+        <file_path/>
+        <instance_id>6a4c0226db323554b1eb9027c596197a</instance_id>
+        <instance_name>dev231767</instance_name>
+        <name>sys_ui_policy_348649d183911210e2619780deaad324</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ui_policy"&gt;
+    &lt;sys_ui_policy action="INSERT_OR_UPDATE"&gt;
+        &lt;active&gt;true&lt;/active&gt;
+        &lt;conditions table="x_snc_plant_mgmt_plant_wiki"&gt;is_seasonal=true^EQ&lt;item endquery="false" field="is_seasonal" goto="false" newquery="false" operator="=" or="false" value="true"/&gt;
+            &lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;
+        &lt;/conditions&gt;
+        &lt;description/&gt;
+        &lt;global&gt;true&lt;/global&gt;
+        &lt;inherit&gt;false&lt;/inherit&gt;
+        &lt;isolate_script&gt;true&lt;/isolate_script&gt;
+        &lt;model_id/&gt;
+        &lt;model_table/&gt;
+        &lt;on_load&gt;true&lt;/on_load&gt;
+        &lt;order&gt;100&lt;/order&gt;
+        &lt;reverse_if_false&gt;true&lt;/reverse_if_false&gt;
+        &lt;run_scripts&gt;false&lt;/run_scripts&gt;
+        &lt;script_false&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_false&gt;
+        &lt;script_true&gt;&lt;![CDATA[function onCondition() {
+
+}]]&gt;&lt;/script_true&gt;
+        &lt;set_values/&gt;
+        &lt;short_description&gt;Show Season if Seasonal is true&lt;/short_description&gt;
+        &lt;sys_class_name&gt;sys_ui_policy&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2024-10-16 06:18:49&lt;/sys_created_on&gt;
+        &lt;sys_domain&gt;global&lt;/sys_domain&gt;
+        &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
+        &lt;sys_id&gt;348649d183911210e2619780deaad324&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_name&gt;Show Season if Seasonal is true&lt;/sys_name&gt;
+        &lt;sys_overrides/&gt;
+        &lt;sys_package display_value="Plant Management" source="x_snc_plant_mgmt"&gt;9c697d609329ca10c7067a418bba1022&lt;/sys_package&gt;
+        &lt;sys_policy/&gt;
+        &lt;sys_scope display_value="Plant Management"&gt;9c697d609329ca10c7067a418bba1022&lt;/sys_scope&gt;
+        &lt;sys_update_name&gt;sys_ui_policy_348649d183911210e2619780deaad324&lt;/sys_update_name&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2024-10-16 06:18:49&lt;/sys_updated_on&gt;
+        &lt;table&gt;x_snc_plant_mgmt_plant_wiki&lt;/table&gt;
+        &lt;ui_type&gt;0&lt;/ui_type&gt;
+        &lt;view/&gt;
+    &lt;/sys_ui_policy&gt;
+&lt;/record_update&gt;</payload>
+        <payload_hash>1930380628</payload_hash>
+        <record_name>Show Season if Seasonal is true</record_name>
+        <reverted_from/>
+        <source>7d2d7cd9c3ed52103acc7275e401318d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 15:55:47</sys_created_on>
+        <sys_id>20edb015c32192103acc7275e40131dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192d3d72e990000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 15:55:47</sys_updated_on>
+        <type>UI Policy</type>
+        <update_guid>e8edb01503219210f4249d1f7f9080dc</update_guid>
+        <update_guid_history>e8edb01503219210f4249d1f7f9080dc:0,3e0cf4d59bed52102945358fae5dd82c:944967228,849ae89995e952103e7ae80bb328bab4:0,d05ad011c9695210a6789a774f4e4fea:1981962227,355504592b255210cd095854fd74c72a:0,f1738cdd0ae1521005c81ef218dad16c:539607258,f7c609d28251d6105fd074a8ad4ca424:0,6815c59a4211d61096b72a4d9b3d31cd:-386730860,b22ff89637d996104b594106eaac1d53:1930380628</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 15:56:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy">sys_ui_policy</sys_db_object>
+        <sys_id>40d73d1e737349889f3e460b14d2e661</sys_id>
+        <sys_metadata>348649d183911210e2619780deaad324</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show Season if Seasonal is true</sys_name>
+        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
+        <sys_parent display_value="">61bbb5649329ca10c7067a418bba105f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
+        <sys_scope_delete display_value="">283fa31445f04ee4a1c2e3751210cbd9</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_348649d183911210e2619780deaad324</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_348649d183911210e2619780deaad324">20edb015c32192103acc7275e40131dd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 15:56:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

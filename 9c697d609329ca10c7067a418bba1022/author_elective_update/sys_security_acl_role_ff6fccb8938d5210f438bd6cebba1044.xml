@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-02 02:44:30</sys_created_on>
+        <sys_id>ff6fccb8938d5210f438bd6cebba1044</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_plant_mgmt_care_instructions.x_snc_plant_mgmt.care_instructions_user</sys_name>
+        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
+        <sys_security_acl display_value="x_snc_plant_mgmt_care_instructions">3b6fccb8938d5210f438bd6cebba1022</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ff6fccb8938d5210f438bd6cebba1044</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-02 02:44:30</sys_updated_on>
+        <sys_user_role display_value="x_snc_plant_mgmt.care_instructions_user" name="x_snc_plant_mgmt.care_instructions_user">636fc838938d5210f438bd6cebba1084</sys_user_role>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Plant Management">9c697d609329ca10c7067a418bba1022</application>
+        <file_path/>
+        <instance_id>6a4c0226db323554b1eb9027c596197a</instance_id>
+        <instance_name>dev231767</instance_name>
+        <name>sys_security_acl_role_ff6fccb8938d5210f438bd6cebba1044</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-02 02:44:30</sys_created_on>
+        <sys_id>ff6fccb8938d5210f438bd6cebba1044</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_plant_mgmt_care_instructions.x_snc_plant_mgmt.care_instructions_user</sys_name>
+        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
+        <sys_security_acl display_value="x_snc_plant_mgmt_care_instructions">3b6fccb8938d5210f438bd6cebba1022</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ff6fccb8938d5210f438bd6cebba1044</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-02 02:44:30</sys_updated_on>
+        <sys_user_role display_value="x_snc_plant_mgmt.care_instructions_user" name="x_snc_plant_mgmt.care_instructions_user">636fc838938d5210f438bd6cebba1084</sys_user_role>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>1389751898</payload_hash>
+        <record_name>x_snc_plant_mgmt_care_instructions.x_snc_plant_mgmt.care_instructions_user</record_name>
+        <reverted_from/>
+        <source>7d2d7cd9c3ed52103acc7275e401318d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 15:55:45</sys_created_on>
+        <sys_id>4ced3015c32192103acc7275e401310d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192d3d726d90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 15:55:45</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>08ed3015d4219210856cb446f667c90d</update_guid>
+        <update_guid_history>08ed3015d4219210856cb446f667c90d:0,630c38d573ed521022fc53a794719e77:775004850,738ae899a0e952104204676703d7eb12:0,d95a5411f0695210df664259adb6ddaa:1492107147,6d5580599b2552104f59537c276256e7:0,b2730011852552109268243b4f4342bb:-505564076,63c6c5d2fb51d610729d72e32fe9363e:0,9915499a7811d61028ea19d976e05734:-651257319,aa2fb896e1d99610c8929c8d206f0d2b:1389751898</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_plant_mgmt_care_instructions.x_snc_plant_mgmt.care_instructions_user">9e0ef4d5c32192103acc7275e401318c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 15:56:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>12d4508592cd4200ae2bb5d160115ca1</sys_id>
+        <sys_metadata>ff6fccb8938d5210f438bd6cebba1044</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_plant_mgmt_care_instructions.x_snc_plant_mgmt.care_instructions_user</sys_name>
+        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
+        <sys_parent display_value="">3b6fccb8938d5210f438bd6cebba1022</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
+        <sys_scope_delete display_value="">283fa31445f04ee4a1c2e3751210cbd9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_ff6fccb8938d5210f438bd6cebba1044</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_ff6fccb8938d5210f438bd6cebba1044">4ced3015c32192103acc7275e401310d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 15:56:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -2,7 +2,7 @@
     <sys_ui_related sys_domain="global" table="x_snc_plant_mgmt_plants" version="2" view="">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Plants - Default view" name="x_snc_plant_mgmt_plants" related_list="NULL" sys_domain="global" view="Default view">9de0547c938d5210f438bd6cebba1053</list_id>
+            <list_id display_value="x_snc_plant_mgmt_plants - Default view" name="x_snc_plant_mgmt_plants" related_list="NULL" sys_domain="global" view="Default view">9de0547c938d5210f438bd6cebba1053</list_id>
             <order_by/>
             <position>0</position>
             <related_list>x_snc_plant_mgmt_care_instructions.plant_id</related_list>
@@ -15,7 +15,7 @@
             <sys_updated_on>2024-10-02 02:50:53</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
-            <calculated_name>Plants - Default view</calculated_name>
+            <calculated_name>x_snc_plant_mgmt_plants - Default view</calculated_name>
             <filter/>
             <name>x_snc_plant_mgmt_plants</name>
             <order_by/>

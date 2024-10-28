@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Maintenance Tasks</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Maintenance Tasks</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">4b8574397d31311076daf29f52070d17</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 15:52:55</sys_created_on>
+        <sys_id>ea3d741dc3ed52103acc7275e4013106</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maintenance Tasks</sys_name>
+        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
+        <sys_update_name>sys_wizard_answer_ea3d741dc3ed52103acc7275e4013106</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 15:52:55</sys_updated_on>
+        <table/>
+        <target_url>x_snc_plant_mgmt_tasks.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Plant Management">9c697d609329ca10c7067a418bba1022</application>
+        <file_path/>
+        <instance_id>6a4c0226db323554b1eb9027c596197a</instance_id>
+        <instance_name>dev231767</instance_name>
+        <name>sys_wizard_answer_ea3d741dc3ed52103acc7275e4013106</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Maintenance Tasks</answer><button_label/><dependent_value/><element/><name>Maintenance Tasks</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">4b8574397d31311076daf29f52070d17</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-28 15:52:55</sys_created_on><sys_id>ea3d741dc3ed52103acc7275e4013106</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Maintenance Tasks</sys_name><sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package><sys_policy/><sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope><sys_update_name>sys_wizard_answer_ea3d741dc3ed52103acc7275e4013106</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-28 15:52:55</sys_updated_on><table/><target_url>x_snc_plant_mgmt_tasks.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1644646461</payload_hash>
+        <record_name>Maintenance Tasks</record_name>
+        <reverted_from/>
+        <source>0c5a1801473302103e4cdaf1d16d435d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-08-01 18:52:01</sys_created_on>
+        <sys_id>a6edbc15c32192103acc7275e40131cc</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1910f48e4680000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>66edbc154a219210853a4473266078cc</update_guid>
+        <update_guid_history>66edbc154a219210853a4473266078cc:-1644646461</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 15:55:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>870f3c0d387e4d62b5869cf7e2d3b741</sys_id>
+        <sys_metadata>ea3d741dc3ed52103acc7275e4013106</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Maintenance Tasks</sys_name>
+        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
+        <sys_parent display_value="Task">4b8574397d31311076daf29f52070d17</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_wizard_answer_ea3d741dc3ed52103acc7275e4013106</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_ea3d741dc3ed52103acc7275e4013106">a6edbc15c32192103acc7275e40131cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 15:55:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

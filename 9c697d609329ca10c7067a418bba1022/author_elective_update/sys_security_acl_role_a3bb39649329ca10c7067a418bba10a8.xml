@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>paige.duffey</sys_created_by>
+        <sys_created_on>2024-04-10 16:19:28</sys_created_on>
+        <sys_id>a3bb39649329ca10c7067a418bba10a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_plant_mgmt_plant_wiki.x_snc_plant_mgmt.botanist</sys_name>
+        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
+        <sys_security_acl display_value="x_snc_plant_mgmt_plant_wiki">67bb39649329ca10c7067a418bba10a5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a3bb39649329ca10c7067a418bba10a8</sys_update_name>
+        <sys_updated_by>paige.duffey</sys_updated_by>
+        <sys_updated_on>2024-04-10 16:19:28</sys_updated_on>
+        <sys_user_role display_value="x_snc_plant_mgmt.botanist" name="x_snc_plant_mgmt.botanist">6fd9bda09329ca10c7067a418bba1022</sys_user_role>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Plant Management">9c697d609329ca10c7067a418bba1022</application>
+        <file_path/>
+        <instance_id>6a4c0226db323554b1eb9027c596197a</instance_id>
+        <instance_name>dev231767</instance_name>
+        <name>sys_security_acl_role_a3bb39649329ca10c7067a418bba10a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>paige.duffey</sys_created_by>
+        <sys_created_on>2024-04-10 16:19:28</sys_created_on>
+        <sys_id>a3bb39649329ca10c7067a418bba10a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_plant_mgmt_plant_wiki.x_snc_plant_mgmt.botanist</sys_name>
+        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
+        <sys_security_acl display_value="x_snc_plant_mgmt_plant_wiki">67bb39649329ca10c7067a418bba10a5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a3bb39649329ca10c7067a418bba10a8</sys_update_name>
+        <sys_updated_by>paige.duffey</sys_updated_by>
+        <sys_updated_on>2024-04-10 16:19:28</sys_updated_on>
+        <sys_user_role display_value="x_snc_plant_mgmt.botanist" name="x_snc_plant_mgmt.botanist">6fd9bda09329ca10c7067a418bba1022</sys_user_role>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>-1461278562</payload_hash>
+        <record_name>x_snc_plant_mgmt_plant_wiki.x_snc_plant_mgmt.botanist</record_name>
+        <reverted_from/>
+        <source>7d2d7cd9c3ed52103acc7275e401318d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 15:55:44</sys_created_on>
+        <sys_id>bfddbcd1c32192103acc7275e40131df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192d3d7233c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 15:55:44</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>7bddbcd13f2192101a01a062bc96a3df</update_guid>
+        <update_guid_history>7bddbcd13f2192101a01a062bc96a3df:0,460c74d5eaed5210778729fa7e5bced4:1185906434,e38aa899dbe95210b5d574268ec617b4:0,ef4a9011af69521035673f2e90d70045:511776465,11558059e4255210e5aa486def4c391a:0,c5730cdd47e15210b39716d395dac0e6:2132038872,6fc685d26d51d6104abdc89391423c63:0,bb05859a2411d610ea91e07d2ebb6d67:1120733561,1a2f78960ad99610ed0a9ebb8650bd38:-1461278562</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_plant_mgmt_plant_wiki.x_snc_plant_mgmt.botanist">1dfdfc55c32192103acc7275e40131e3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>paige.duffey</sys_created_by>
+        <sys_created_on>2024-10-28 15:56:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>b510e2d747e34f408bfa633244fd74c4</sys_id>
+        <sys_metadata>a3bb39649329ca10c7067a418bba10a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_plant_mgmt_plant_wiki.x_snc_plant_mgmt.botanist</sys_name>
+        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
+        <sys_parent display_value="">67bb39649329ca10c7067a418bba10a5</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
+        <sys_scope_delete display_value="">283fa31445f04ee4a1c2e3751210cbd9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_a3bb39649329ca10c7067a418bba10a8</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_a3bb39649329ca10c7067a418bba10a8">bfddbcd1c32192103acc7275e40131df</sys_update_version>
+        <sys_updated_by>paige.duffey</sys_updated_by>
+        <sys_updated_on>2024-10-28 15:56:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

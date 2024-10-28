@@ -7,8 +7,7 @@
         <affected_field_on_event/>
         <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
         <collection>x_snc_plant_mgmt_plants</collection>
-        <condition table="x_snc_plant_mgmt_plants">u_watering_dueVALCHANGES^EQ<item endquery="false" field="u_watering_due" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        <condition table="x_snc_plant_mgmt_plants">u_watering_dueVALCHANGES^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <content_type>text/html</content_type>
         <default_interval/>
@@ -60,6 +59,8 @@
 </table>]]></message_html>
         <message_list/>
         <message_text/>
+        <messaging_channels/>
+        <messaging_content/>
         <name>Plant has been watered</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>

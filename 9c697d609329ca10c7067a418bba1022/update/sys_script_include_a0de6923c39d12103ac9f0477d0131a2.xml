@@ -8,7 +8,6 @@
         <description/>
         <mobile_callable>false</mobile_callable>
         <name>getPlantData</name>
-        <sandbox_callable>false</sandbox_callable>
         <script><![CDATA[var getPlantData = Class.create();
 getPlantData.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
 

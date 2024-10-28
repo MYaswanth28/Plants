@@ -146,7 +146,7 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>New Section</sys_name>
         <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
-        <sys_parent display_value="Plants">036cf1a49329ca10c7067a418bba10da</sys_parent>
+        <sys_parent display_value="">036cf1a49329ca10c7067a418bba10da</sys_parent>
         <sys_policy/>
         <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
         <sys_scope_delete display_value="">283fa31445f04ee4a1c2e3751210cbd9</sys_scope_delete>

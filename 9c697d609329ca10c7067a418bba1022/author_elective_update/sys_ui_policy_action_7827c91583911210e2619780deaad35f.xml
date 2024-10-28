@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>season</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 06:21:03</sys_created_on>
+        <sys_id>7827c91583911210e2619780deaad35f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>season</sys_name>
+        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
+        <sys_update_name>sys_ui_policy_action_7827c91583911210e2619780deaad35f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 06:21:03</sys_updated_on>
+        <table>x_snc_plant_mgmt_plant_wiki</table>
+        <ui_policy display_value="Show Season if Seasonal is true">348649d183911210e2619780deaad324</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=7827c91583911210e2619780deaad35f"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Plant Management">9c697d609329ca10c7067a418bba1022</application>
+        <file_path/>
+        <instance_id>6a4c0226db323554b1eb9027c596197a</instance_id>
+        <instance_name>dev231767</instance_name>
+        <name>sys_ui_policy_action_7827c91583911210e2619780deaad35f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>season</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-16 06:21:03</sys_created_on>
+        <sys_id>7827c91583911210e2619780deaad35f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>season</sys_name>
+        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
+        <sys_update_name>sys_ui_policy_action_7827c91583911210e2619780deaad35f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-16 06:21:03</sys_updated_on>
+        <table>x_snc_plant_mgmt_plant_wiki</table>
+        <ui_policy display_value="Show Season if Seasonal is true">348649d183911210e2619780deaad324</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=7827c91583911210e2619780deaad35f"/>
+</record_update>]]></payload>
+        <payload_hash>962000843</payload_hash>
+        <record_name>season</record_name>
+        <reverted_from/>
+        <source>77bef492c3d996103acc7275e4013122</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-19 08:19:37</sys_created_on>
+        <sys_id>ba2ff896c3d996103acc7275e4013183</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192a3dc51840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-19 08:19:37</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>7a2ff89666d996107f01e6c10015b083</update_guid>
+        <update_guid_history>7a2ff89666d996107f01e6c10015b083:962000843</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-28 15:56:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>8a89b2628baf4b9e95dc9097e4caf811</sys_id>
+        <sys_metadata>7827c91583911210e2619780deaad35f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>season</sys_name>
+        <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
+        <sys_parent display_value="">348649d183911210e2619780deaad324</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
+        <sys_scope_delete display_value="">283fa31445f04ee4a1c2e3751210cbd9</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_7827c91583911210e2619780deaad35f</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_7827c91583911210e2619780deaad35f">ba2ff896c3d996103acc7275e4013183</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-28 15:56:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

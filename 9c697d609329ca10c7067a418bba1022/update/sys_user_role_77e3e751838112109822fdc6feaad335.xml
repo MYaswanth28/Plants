@@ -4,6 +4,7 @@
         <can_delegate>true</can_delegate>
         <description>Users who assist plant care takers when plant diseases are reported</description>
         <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_snc_plant_mgmt.plant_pathologist</name>
